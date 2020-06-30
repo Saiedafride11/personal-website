@@ -1,0 +1,143 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.header-section{
+    background-image: url(Images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    height: 600px;
+    padding: 80px 0px 40px;
+}
+.section-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.section-width img{
+    width: 100%;
+}
+.header-section h3{
+    font-size: 30px;
+    font-weight: 900;
+    margin-top:150px;
+}
+.header-section h2{
+    font-size: 40px;
+    font-weight: 800;
+    color: #ec4c7a;
+    margin-top: -30px;
+}
+.header-section p{
+    color: dimgrey;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+.link-button{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+    background-color: #ec4c7a;
+}
+
+
+
+
+.Biography-section{
+    background-image: url(Images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+    padding: 80px 0px;
+}
+
+.Biography-section h3{
+    font-size: 30px;
+    font-weight: 900;
+    margin-top:200px;
+}
+
+.Biography-section p{
+    color: dimgrey;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+
+.latest-section{
+    background-image: url(Images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 80%;
+    text-align: center;
+    height: 370px;
+    padding: 80px 0px;
+}
+.latest-section h3{
+    font-size: 30px;
+    font-weight: 900;
+    margin-top:0px;
+    margin-bottom:50px;
+}
+.latest-width{
+    width: 80%;
+    margin: 0 auto;
+}
+.latest-inner{
+    width: 33.33%;
+    float: left;
+}
+.latest-inner img{
+    width: 100%;
+}
+
+
+
+.footer-section{
+    background-image: url(Images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 500px;
+    padding: 80px 0px 100px;
+}
+.footer-top h3{
+    font-size: 30px;
+    font-weight: 900;
+}
+.footer-top h5{
+    font-size: 16px;
+    font-weight: 700;
+}
+.footer-top h6{
+    font-size: 14px;
+    font-weight: 700;
+    color:dimgrey ;
+    margin-top: -20px;
+}
+.footer-top p{
+    color: black;
+}
+
+.footer-box{
+    width: 30%;
+    padding: 20px 40px;
+    border-radius: 10px;
+    margin: 0 auto;
+    background: #ec4f8f;
+    color: #fff;
+    margin-top: 50px;
+}
+
+.footer-box h4{
+    font-size: 18px;
+    margin-top: -10px;
+}
+.footer-finish{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
