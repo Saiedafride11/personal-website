@@ -43,8 +43,14 @@ body{
     font-weight: 700;
     color: white;
     background-color: #ec4c7a;
+    border: 1px solid transparent;
 }
-
+.link-button:hover{
+    border: 1px solid #ec4c7a;
+    background: transparent;
+    color: #ec4c7a;
+    transition: 1s;
+}
 
 
 
@@ -131,6 +137,14 @@ body{
     background: #ec4f8f;
     color: #fff;
     margin-top: 50px;
+    border: 1px solid transparent;
+}
+
+.footer-box:hover{
+    border: 1px solid #ec4c7a;
+    background: transparent;
+    color: #ec4c7a;
+    transition: 1s;
 }
 
 .footer-box h4{
